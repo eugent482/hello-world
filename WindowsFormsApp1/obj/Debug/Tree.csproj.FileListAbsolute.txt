@@ -1,0 +1,16 @@
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tree.csproj.GenerateResource.Cache
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.Mig1.resources
+D:\TreeViewStuff\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddEditForm.resources
